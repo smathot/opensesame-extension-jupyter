@@ -1,0 +1,11 @@
+description: Jupyter Lab
+icon: jupyter
+label: Jupyter Lab
+menu:
+  index: -1
+  separator_after: false
+  separator_before: true
+  submenu: Tools
+settings:
+  jupyter_lab_executable: ""
+  jupyter_lab_args: ""
