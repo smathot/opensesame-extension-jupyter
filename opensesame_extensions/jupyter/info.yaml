@@ -1,5 +1,5 @@
 description: Jupyter Lab
-icon: jupyter
+icon: python
 label: Jupyter Lab
 menu:
   index: -1

@@ -25,7 +25,7 @@ setup(
 	# Some general metadata. By convention, a extension is named:
 	# opensesame-extension-[extension name]
 	name='opensesame-extension-jupyter',
-	version='0.1.0',
+	version='0.1.1',
 	description='Jupyter Lab extension for OpenSesame',
 	author='Sebastiaan Mathot',
 	author_email='s.mathot@cogsci.nl',
